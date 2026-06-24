@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.2.74](https://github.com/archestra-ai/archestra/compare/platform-v1.2.73...platform-v1.2.74) (2026-06-24)
+
+
+### Features
+
+* **projects:** per-project instructions.md injected into chat system prompts ([#5820](https://github.com/archestra-ai/archestra/issues/5820)) ([d226c61](https://github.com/archestra-ai/archestra/commit/d226c61de1e38b7c3268cc46ca54efe4033c1969))
+
+
+### Bug Fixes
+
+* **apps:** fullscreen mode ([#5826](https://github.com/archestra-ai/archestra/issues/5826)) ([a2bed50](https://github.com/archestra-ai/archestra/commit/a2bed508cc842b527eb321fca2133ec622f0606c))
+* **apps:** fullscreen to panel flow ([#5828](https://github.com/archestra-ai/archestra/issues/5828)) ([292e32d](https://github.com/archestra-ai/archestra/commit/292e32dc777685aa12a7b33b8246158dbf3a1406))
+* **apps:** give human readable names to external tools ([#5824](https://github.com/archestra-ai/archestra/issues/5824)) ([aee979f](https://github.com/archestra-ai/archestra/commit/aee979f95e3bcb2bc3d74c73005c473503aec961))
+* make GitHub Copilot (per-user) provider usable org-wide ([#5821](https://github.com/archestra-ai/archestra/issues/5821)) ([0cc5572](https://github.com/archestra-ai/archestra/commit/0cc5572ad60aed6985d0fdbdd5c4ae7a4ff5ea95))
+
+
+### Miscellaneous Chores
+
+* delete platform/backend/src/services/environments/spec.md ([#5300](https://github.com/archestra-ai/archestra/issues/5300)) ([6d2d56f](https://github.com/archestra-ai/archestra/commit/6d2d56fd3c1b1ae9ed87bcf716541c0663231a27))
+
 ## [1.2.73](https://github.com/archestra-ai/archestra/compare/platform-v1.2.72...platform-v1.2.73) (2026-06-23)
 
 
